@@ -47,7 +47,6 @@ def sing_song():
         t = Thread(target=sing_lyric, args=(lyric, delays[i], speed))
         threads.append(t)
         t.start()
-
     for thread in threads:
         thread.join()
 
