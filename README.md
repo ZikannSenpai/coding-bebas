@@ -15,7 +15,7 @@ Comment di tiktok aja
 
 > [!NOTE]
 > This tutorial only applies to the termux application
-> Step 1: Update & Upgrade
+> ### Step 1: Update & Upgrade
 > ```
 > pkg update && upgrade
 > ```
@@ -23,16 +23,16 @@ Comment di tiktok aja
 > ```
 > pkg install python git
 > ```
-> Step 3: Clone Repository From GitHub
+> ### Step 3: Clone Repository From GitHub
 > ```
 > git clone
 > https://github.com/ZikannSenpai/coding-bebas.git
 > ```
-> Step 4: Enter Project Folder
+> ### Step 4: Enter Project Folder
 > ```
 > cd coding-bebas
 > ```
-> Step 5: Run Python File
+> ### Step 5: Run Python File
 > ```
 > python "nama file.py"
 > ```
@@ -41,4 +41,4 @@ Comment di tiktok aja
 > python "masa lalu.py"
 > ```
 
-> Thank You For Using My Fun Project!
+> ### Thank You For Using My Fun Project!
