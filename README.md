@@ -23,7 +23,6 @@ Comment di tiktok aja
 > ```
 > pkg install python git
 > ```
-
 > Step 3: Clone Repository From GitHub
 > ```
 > git clone
