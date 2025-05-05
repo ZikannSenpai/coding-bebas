@@ -41,7 +41,6 @@ def sing_song():
     delays = [0.00, 3.00, 5.50, 9.50, 10.00, 11.00, 12.00, 13.00, 13.50, 14.00, 16.00, 20.00, 23.00, 26.00, 27.50, 31.00, 34.00, 38.00, 41.00]
 
     threads = []
-
     for i in range(len(lyrics)):
         lyric, speed = lyrics[i]
         t = Thread(target=sing_lyric, args=(lyric, delays[i], speed))
