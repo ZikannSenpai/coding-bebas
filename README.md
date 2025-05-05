@@ -28,12 +28,10 @@ Comment di tiktok aja
 > ```
 > git clone https://github.com/ZikannSenpai/coding-bebas.git
 > ```
-
 > Step 4: Enter Project Folder
 > ```
 > cd coding-bebas
 > ```
-
 > Step 5: Run Python File
 > ```
 > python "nama file.py"
