@@ -3,7 +3,7 @@
 **Mau request lagu buat konten?**  
 Comment di tiktok aja
 
-[TikTok](https://www.tiktok.com/@zikannsenpai)
+[Click Here](https://www.tiktok.com/@zikannsenpai)
 
 ---
 
