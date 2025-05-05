@@ -19,7 +19,7 @@ Comment di tiktok aja
 > ```
 > pkg update && upgrade
 > ```
-> Step 2: Install Python & Git
+> ### Step 2: Install Python & Git
 > ```
 > pkg install python git
 > ```
