@@ -26,7 +26,8 @@ Comment di tiktok aja
 
 > Step 3: Clone Repository From GitHub
 > ```
-> git clone https://github.com/ZikannSenpai/coding-bebas.git
+> git clone
+> https://github.com/ZikannSenpai/coding-bebas.git
 > ```
 > Step 4: Enter Project Folder
 > ```
