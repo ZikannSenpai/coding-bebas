@@ -9,6 +9,9 @@ Comment di tiktok aja
 
 **Terima kasih sudah mendukung!**
 
+
 # How To Use?
 
--
+***
+> [!NOTE]
+> This tutorial only applies to the termux application
