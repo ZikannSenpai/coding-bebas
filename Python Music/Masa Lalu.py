@@ -49,7 +49,7 @@ def sing_song():
         t.start()
 
     for thread in threads:
-				thread.join()
+        thread.join()
 
 if __name__ == "__main__":
     sing_song()
