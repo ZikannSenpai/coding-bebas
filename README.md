@@ -15,12 +15,10 @@ Comment di tiktok aja
 
 > [!NOTE]
 > This tutorial only applies to the termux application
-
 > Step 1: Update & Upgrade
 > ```
 > pkg update && upgrade
 > ```
-
 > Step 2: Install Python & Git
 > ```
 > pkg install python git
