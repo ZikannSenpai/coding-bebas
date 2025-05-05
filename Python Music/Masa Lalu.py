@@ -22,7 +22,7 @@ def sing_lyric(lyric, delay, speed):
 
 def play_music():
     # Pastikan path sesuai file kamu
-    player.play('/Song/masalalu.mp4')
+    player.play('/Song/VID-20250505-WA0008.mp4')
     player.wait_for_playback()
 
 def sing_song():
