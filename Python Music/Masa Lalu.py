@@ -3,7 +3,6 @@ from threading import Thread, Lock
 import sys
 import mpv
 
-# Setup player
 player = mpv.MPV()
 
 lock = Lock()
@@ -21,7 +20,6 @@ def sing_lyric(lyric, delay, speed):
     animate_text(lyric, speed)
 
 def play_music():
-    # Pastikan path sesuai file kamu
     player.play('/Song/VID-20250505-WA0008.mp4')
     player.wait_for_playback()
 
@@ -51,8 +49,7 @@ def sing_song():
 
     threads = []
 
-    # Play music di background
-    music_thread = Thread(target=play_music)
+	music_thread = Thread(target=play_music)
     music_thread.start()
 
     for i in range(len(lyrics)):
