@@ -17,7 +17,7 @@ Comment di tiktok aja
 > This tutorial only applies to the termux application
 > ### Step 1: Update & Upgrade
 > ```
-> pkg update && upgrade
+> pkg update && pkg upgrade
 > ```
 > ### Step 2: Install Python & Git
 > ```
